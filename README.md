@@ -8,5 +8,5 @@ Desafio 04 - dockerfile-nginx
 - Build do Dockerfile
 - Enviar para o Docker Hub
 - Executar o container com docker run
-
+- Criação de Usuario 
 Subir os arquivos para um repositório no Github
