@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/aulas/dockerfile-nginx","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/leobittes/app":{"guestpath":"/home/leobittes/app","hostpath":"D:/aulas/dockerfile-nginx/website","disabled":false,"__vagrantfile":true},"/home/leobittes":{"guestpath":"/home/leobittes","hostpath":"D:/aulas/dockerfile-nginx/Sync","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/aulas/dockerfile-nginx","disabled":false,"__vagrantfile":true}}}
